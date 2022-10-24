@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static double sinus(int n){
-        double b=Math.toRadians(n);
+        double b=Math.sin(n);
         return b;
 
 
